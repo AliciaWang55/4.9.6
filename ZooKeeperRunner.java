@@ -94,4 +94,9 @@ public class ZooKeeperRunner
   Animal a = new Elephant("leaves, grasses, roots", false, 60.0);
   a.isNocturnal();
   // a.trumpet();
+
+  // Animal a1 = new Animal();
+  // a1.sleep();
+  // Object a2 = new Animal();
+  // a2.sleep();
 }
