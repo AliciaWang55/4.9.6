@@ -90,4 +90,8 @@ public class ZooKeeperRunner
   {
     currentAnimal.speak();
   }
+
+  Animal a = new Elephant("leaves, grasses, roots", false, 60.0);
+  a.isNocturnal();
+  // a.trumpet();
 }
